@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+
+Arquivo_CSV_Professor/credit_card_transactions.csv
+Banco/fraudes.json
